@@ -16,7 +16,7 @@
     <strong>Hongbin Liu</strong>,
     <a href="https://www.ee.cuhk.edu.hk/ren/"><strong>Hongliang Ren</strong></a>
   </p>
-  <h3 align="center"> || <a href="https://arxiv">Paper</a> || <a href="https://lastbasket.github.io/PPFT/">Project Page</a> || </h3>
+  <h3 align="center"> || <a href="https://arxiv">Paper</a> || <a href="https://lastbasket.github.io/MICCAI-2025-Endo-4DGX/">Project Page</a> || </h3>
   <div align="center"></div>
 </p> 
 <p align="center">
